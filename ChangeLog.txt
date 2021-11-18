@@ -1,1 +1,1 @@
-{'ver1':'4', 'ver2':'50', 'ver3':'\n• تحديث جديد مهم\nيرجى تنزيل وتثبيت أحدث إصدار للحفاظ على عمل SAWhatsApp بشكل جيد\n' , 'dli':'https://almobrmg-almohtref2019.blogspot.com/2019/10/SAWhatsapp.html'}
+{'ver1':'4', 'ver2':'60', 'ver3':'\n• تحديث جديد مهم\nيرجى تنزيل وتثبيت أحدث إصدار للحفاظ على عمل SAWhatsApp بشكل جيد\n' , 'dli':'https://almobrmg-almohtref2019.blogspot.com/2019/10/SAWhatsapp.html'}
