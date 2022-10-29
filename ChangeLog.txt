@@ -1,1 +1,1 @@
-{'ver1':'5', 'ver2':'00', 'ver3':'\n• تحديث جديد مهم. \n• يرجى تنزيل وتثبيت أحدث إصدار للحفاظ عمل واتساب بشكل جيد.\n' , 'dli':'https://almobrmg-almohtref2019.blogspot.com/2019/10/SAWhatsapp.html'}
+{'ver1':'5', 'ver2':'50', 'ver3':'\n• [تحديث جديد ممتع].\n• يحتوي على العديد من المزايا الجديد الرائعة.\n• مزيد إصلاحات وتحسينات أخرى مهمة.\n' , 'dli':'https://almobrmg-almohtref2019.blogspot.com/2019/10/SAWhatsapp.html'}
